@@ -2,7 +2,6 @@
 
 /**
  * main - print the string in the put function
- *
  * Description: using the main function
  * this program prints "the size of various types on the computer
  * Return: 0
