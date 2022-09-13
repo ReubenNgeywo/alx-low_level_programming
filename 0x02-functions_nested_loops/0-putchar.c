@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints putchar
+ * main - prints _putchar
  * Return: always 0
  */
 int main(void)
@@ -11,7 +11,6 @@ int main(void)
 	_putchar('u');
 	_putchar('t');
 	_putchar('c');
-	_putchar('h');
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
