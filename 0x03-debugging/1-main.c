@@ -18,6 +18,6 @@ i = 0;
 *putchar(i);
 *}
 */
-printf("indefinite loop avoided !\\o / \n");
+printf("indefinite loop avoided! \\o/\n");
 
 return (0);
