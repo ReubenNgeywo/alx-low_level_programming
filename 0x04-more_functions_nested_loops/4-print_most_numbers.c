@@ -2,11 +2,12 @@
 #include "main.h"
 
 /**
- * main - prints most numbers except 2 and 4
+ * print_most_numbers - print numbers except 2 and 4
  *
- * Return: Always 0.
+ * Return: returns nothing 
  */
-void print_most_numbers(void);
+
+void print_most_numbers(void)
 {
 	int n;
 
