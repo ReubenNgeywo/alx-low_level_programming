@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _rev - prints a satring, in reverse
+ *print_rev - prints a satring, in reverse
  *
  * fcounter is first count to the end, n is to count back
  * @s: str input
