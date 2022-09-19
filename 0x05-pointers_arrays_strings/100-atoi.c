@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int _atoi - Entry point
+	 * _atoi - Entry point
  * @s: input
  * Return: Always 0 (success)
  */
