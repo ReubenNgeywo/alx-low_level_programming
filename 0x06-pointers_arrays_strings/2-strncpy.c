@@ -4,7 +4,8 @@
  * _strncpy - a function that copies a string
  * @dest: the destination value
  * @src: the source value
- *@n: number of bytes from src
+ * @n: number of bytes from src
+ *
  * Return: char value
  */
 char *_strncpy(char *dest, char *src, int n)
